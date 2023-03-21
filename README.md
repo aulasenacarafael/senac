@@ -1,2 +1,2 @@
 # senac
-Site do senac para PI do curso de WEB desing
+Site do senac para Projeto Integrador do curso de WEB desing
