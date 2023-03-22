@@ -5,3 +5,13 @@ body {
     background: #FFFFFF;
 
 }
+
+.cabecalho {
+    position: absolute;
+    width: 1440px;
+    height: 160px;
+    left: 0px;
+    top: 46px;
+    background: #1B830A;
+
+}
